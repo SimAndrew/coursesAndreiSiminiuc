@@ -1,4 +1,4 @@
-## Andrei Siminiuk
+## Andrei Siminiuс
 
 ### Frontend developer
 
