@@ -229,3 +229,8 @@ https://github.com/SimAndrew
 [GitHub The wild oasis Reactjs](https://github.com/SimAndrew/the-wild-oasis)
 
 [DEMO The wild oasis Reactjs](https://the-wild-oasis-app-react.netlify.app)
+
+11 The wild oasis Next JS:
+
+[GitHub The wild oasis Next JS](https://github.com/SimAndrew/the-wild-oasis-nextjs)
+
