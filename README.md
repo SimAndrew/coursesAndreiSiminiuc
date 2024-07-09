@@ -4,11 +4,11 @@
 
 https://github.com/SimAndrew
 
-**Курсы которые я прошел:**
+### **Курсы которые я прошел:**
 
 ---
 
-**1. Курс HTML для JavaScript разработчиков (07.10.2022)**
+### **1. Курс HTML для JavaScript разработчиков (Rus) (07.10.2022)**
 
 Страница курса https://itgid.info/ru/course/html
 
@@ -18,7 +18,7 @@ https://github.com/SimAndrew
 
 ---
 
-**2. Курс JavaScript v2.0 (08.01.2023)**
+### **2. Курс JavaScript v2.0 (Rus) (08.01.2023)**
 
 Страница курса https://itgid.info/ru/course/js20
 
@@ -28,7 +28,7 @@ https://github.com/SimAndrew
 
 ---
 
-**3. The Complete JavaScript Course 2024: From Zero to Expert! (24.11.2023)**
+### **3. The Complete JavaScript Course 2024: From Zero to Expert. (Eng) (udemy.com) (24.11.2023)**
 
 Страница курса https://www.udemy.com/course/the-complete-javascript-course
 
@@ -46,7 +46,7 @@ https://github.com/SimAndrew
 
 - Forkify API provides recipes for Forkify app. [forkify-api](https://forkify-api.herokuapp.com/v2).
 
-Проекты в этом курсе JavaScript:
+**Проекты в этом курсе JavaScript:**
 
 1 Guess My Number game:
 
@@ -86,7 +86,7 @@ https://github.com/SimAndrew
 
 ---
 
-**4. The Ultimate React Course 2024: React, Redux & More (08.05.2024)**
+### **4. The Ultimate React Course 2024: React, Redux, Next JS & More (Eng) (udemy.com) (08.05.2024)**
 
 Страница курса https://www.udemy.com/course/the-ultimate-react-course
 
@@ -94,7 +94,9 @@ https://github.com/SimAndrew
 
 Технологии использовал в курсе:
 
-- [React JS](https://react.dev/)
+- [React JS](https://react.dev/) - React lets you build user interfaces out of individual pieces called components.
+
+- [Next JS](https://nextjs.org/) - React meta-framework. Handles routing, SSR, data fetching and even remote state management.
 
 - [Vite JS](https://vitejs.dev/), [ESLint](https://eslint.org/), [Prettier](https://prettier.io/)
 
@@ -136,7 +138,13 @@ https://github.com/SimAndrew
 
 - [The Frankfurter API convert currency](https://www.frankfurter.app/docs/) For React-Redux Bank app
 
-- For The Wild Oasis app
+For project The Wild Oasis React JS:
+
+Технологии использовал в курсе:
+
+- [React JS](https://react.dev/) - React lets you build user interfaces out of individual pieces called components.
+
+- [Vite JS](https://vitejs.dev/), [ESLint](https://eslint.org/), [Prettier](https://prettier.io/)
 
 - React Query - Data retrieval and caching in modern web applications https://tanstack.com/query
 
@@ -168,7 +176,33 @@ https://github.com/SimAndrew
 
 - Dark mode
 
-Проекты в этом курсе React JS:
+For project The Wild Oasis Next JS:
+
+Технологии использовал в курсе:
+
+- [React JS](https://react.dev/) - React lets you build user interfaces out of individual pieces called components.
+
+- [Next JS](https://nextjs.org/) - React meta-framework. Handles routing, SSR, data fetching and even remote state management.
+
+- [ESLint](https://eslint.org/), [Prettier](https://prettier.io/)
+
+- Tailwind CSS a utility-first CSS framework that packed with classes. Extremely easy to integrate into Next.js. Utility-first is a CSS methodology where you build up your styles using many small, purpose-specific classes. [tailwindcss.com](https://tailwindcss.com/)
+
+- heroicons/react - Beautiful hand-crafted SVG icons, by the makers of Tailwind CSS [heroicons.com](https://heroicons.com)
+
+- Flexbox
+
+- date-fns - Date manipulation [date-fns.org](https://date-fns.org)
+
+- Supabase - database and API [supabase.com](https://supabase.com)
+
+- React DayPicker- Create date pickers, calendars, and date inputs for web applications. [react-day-picker.js.org](https://react-day-picker.js.org)
+
+- authjs.dev - Authentication for NextJs [authjs.dev](https://authjs.dev/)
+
+- Login & Logout with Google AuthJs login provider https://authjs.dev/getting-started/providers/google
+
+**Проекты в этом курсе React JS + Next JS:**
 
 1 Fast Pizza Menu:
 
@@ -224,13 +258,32 @@ https://github.com/SimAndrew
 
 [DEMO The React-Redux Bank](https://the-react-redux-bank-app.vercel.app)
 
-10 The wild oasis React JS:
+10 The Wild Oasis React JS:
 
-[GitHub The wild oasis Reactjs](https://github.com/SimAndrew/the-wild-oasis)
+[GitHub The Wild Oasis React JS](https://github.com/SimAndrew/the-wild-oasis)
 
-[DEMO The wild oasis Reactjs](https://the-wild-oasis-app-react.netlify.app)
+[DEMO The Wild Oasis React JS](https://the-wild-oasis-app-react.netlify.app)
 
-11 The wild oasis Next JS:
+11 The Wild Oasis Next JS:
 
-[GitHub The wild oasis Next JS](https://github.com/SimAndrew/the-wild-oasis-nextjs)
+[GitHub The Wild Oasis Next JS](https://github.com/SimAndrew/the-wild-oasis-nextjs)
 
+[DEMO The Wild Oasis Next JS](https://the-wild-oasis-app-nextjs.vercel.app)
+
+---
+
+### **5. Implement High Fidelity Designs with Material-UI and React-JS Course 2024 (Eng) (udemy.com)**
+
+Сейчас прохожу этот курс
+
+Страница курса https://www.udemy.com/course/implement-high-fidelity-designs-with-material-ui-and-reactjs
+
+Технологии использовал в курсе:
+
+- [React JS](https://react.dev/)
+
+- [Vite JS](https://vitejs.dev/), [ESLint](https://eslint.org/), [Prettier](https://prettier.io/)
+
+- [Material UI](https://mui.com/material-ui) - Material UI is an open-source React component library that implements Google's Material Design.
+
+[GitHub Arc-Development](https://github.com/SimAndrew/Arc-Development)
