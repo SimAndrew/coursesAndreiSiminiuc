@@ -4,37 +4,37 @@
 
 https://github.com/SimAndrew
 
-### **Курсы которые я прошел:**
+### **The courses that I completed:**
 
 ---
 
-### **1. Курс HTML для JavaScript разработчиков (Rus) (07.10.2022)**
+### **1. Course HTML for JavaScript developers (Rus) (07.10.2022)**
 
-Страница курса https://itgid.info/ru/course/html
+The course page: https://itgid.info/ru/course/html
 
-Сертификат об окончании https://itgid.info/ru/certificate/view?Certificate%5Buid%5D=4d8jmh9vdazn
+Completion certificate: https://itgid.info/ru/certificate/view?Certificate%5Buid%5D=4d8jmh9vdazn
 
-Пройденный курс на GitHub https://github.com/SimAndrew/Html-Css-for-Javascript
+Completed course on GitHub: https://github.com/SimAndrew/Html-Css-for-Javascript
 
 ---
 
-### **2. Курс JavaScript v2.0 (Rus) (08.01.2023)**
+### **2. Course JavaScript v2.0 (Rus) (08.01.2023)**
 
-Страница курса https://itgid.info/ru/course/js20
+The course page: https://itgid.info/ru/course/js20
 
-Сертификат об окончании https://itgid.info/ru/certificate/view?Certificate%5Buid%5D=b2r7ayvpur8k
+Completion certificate: https://itgid.info/ru/certificate/view?Certificate%5Buid%5D=b2r7ayvpur8k
 
-Пройденный курс на GitHub https://github.com/SimAndrew/JavaScript-v2
+Completed course on GitHub: https://github.com/SimAndrew/JavaScript-v2
 
 ---
 
 ### **3. The Complete JavaScript Course 2024: From Zero to Expert. (Eng) (udemy.com) (24.11.2023)**
 
-Страница курса https://www.udemy.com/course/the-complete-javascript-course
+The course page: https://www.udemy.com/course/the-complete-javascript-course
 
-Сертификат об окончании https://www.udemy.com/certificate/UC-273c85e5-4e3c-4643-b525-550db17b894b
+Completion certificate: https://www.udemy.com/certificate/UC-273c85e5-4e3c-4643-b525-550db17b894b
 
-Технологии использовал в курсе:
+Technology used:
 
 - HTML,
 
@@ -46,53 +46,53 @@ https://github.com/SimAndrew
 
 - Forkify API provides recipes for Forkify app. [forkify-api](https://forkify-api.herokuapp.com/v2).
 
-**Проекты в этом курсе JavaScript:**
+**Projects in this course JavaScript:**
 
 1 Guess My Number game:
 
 [GitHub Guess My Number game](https://github.com/SimAndrew/Guess-My-Number)
 
-[DEMO Guess My Number](https://simandrew.github.io/Guess-My-Number/)
+[DEMO Guess My Number](https://simandrew.github.io/Guess-My-Number)
 
 2 Pig Game:
 
 [GitHub Pig Game](https://github.com/SimAndrew/Pig-Game-Js)
 
-[DEMO Pig Game](https://simandrew.github.io/Pig-Game-Js/)
+[DEMO Pig Game](https://simandrew.github.io/Pig-Game-Js)
 
 3 Bankist marketing website:
 
 [GitHub Bankist marketing website](https://github.com/SimAndrew/bankist-marketing-website-js)
 
-[DEMO Bankist marketing website](https://simandrew.github.io/bankist-marketing-website-js/)
+[DEMO Bankist marketing website](https://simandrew.github.io/bankist-marketing-website-js)
 
 4 Bankist:
 
 [GitHub Bankist](https://github.com/SimAndrew/bankist-app-js)
 
-[DEMO Bankist](https://github.com/SimAndrew/bankist-app-js)
+[DEMO Bankist](https://simandrew.github.io/bankist-app-js)
 
 5 Mapty:
 
 [GitHub Mapty](https://github.com/SimAndrew/mapty-app-js)
 
-[DEMO Mapty](https://github.com/SimAndrew/mapty-app-js)
+[DEMO Mapty](https://simandrew.github.io/mapty-app-js)
 
 6 Forkify:
 
 [GitHub Forkify](https://github.com/SimAndrew/forkify-app-js)
 
-[DEMO Forkify](https://github.com/SimAndrew/forkify-app-js)
+[DEMO Forkify](https://forkify-application-js.netlify.app)
 
 ---
 
 ### **4. The Ultimate React Course 2024: React, Redux, Next JS & More (Eng) (udemy.com) (08.05.2024)**
 
-Страница курса https://www.udemy.com/course/the-ultimate-react-course
+The course page https://www.udemy.com/course/the-ultimate-react-course
 
-Сертификат об окончании https://www.udemy.com/certificate/UC-aec1579c-09be-422e-a241-4fe0141c146a
+Completion certificate https://www.udemy.com/certificate/UC-aec1579c-09be-422e-a241-4fe0141c146a
 
-Технологии использовал в курсе:
+Technology used:
 
 - [React JS](https://react.dev/) - React lets you build user interfaces out of individual pieces called components.
 
@@ -140,7 +140,7 @@ https://github.com/SimAndrew
 
 For project The Wild Oasis React JS:
 
-Технологии использовал в курсе:
+Technology used:
 
 - [React JS](https://react.dev/) - React lets you build user interfaces out of individual pieces called components.
 
@@ -178,7 +178,7 @@ For project The Wild Oasis React JS:
 
 For project The Wild Oasis Next JS:
 
-Технологии использовал в курсе:
+Technology used:
 
 - [React JS](https://react.dev/) - React lets you build user interfaces out of individual pieces called components.
 
@@ -202,7 +202,7 @@ For project The Wild Oasis Next JS:
 
 - Login & Logout with Google AuthJs login provider https://authjs.dev/getting-started/providers/google
 
-**Проекты в этом курсе React JS + Next JS:**
+**Projects in this course React JS + Next JS:**
 
 1 Fast Pizza Menu:
 
@@ -274,16 +274,18 @@ For project The Wild Oasis Next JS:
 
 ### **5. Implement High Fidelity Designs with Material-UI and React-JS Course 2024 (Eng) (udemy.com)**
 
-Сейчас прохожу этот курс
+I'm doing this course right now
 
-Страница курса https://www.udemy.com/course/implement-high-fidelity-designs-with-material-ui-and-reactjs
+The course page https://www.udemy.com/course/implement-high-fidelity-designs-with-material-ui-and-reactjs
 
-Технологии использовал в курсе:
+Technology used:
 
 - [React JS](https://react.dev/)
 
 - [Vite JS](https://vitejs.dev/), [ESLint](https://eslint.org/), [Prettier](https://prettier.io/)
 
 - [Material UI](https://mui.com/material-ui) - Material UI is an open-source React component library that implements Google's Material Design.
+
+**Projects in this course React JS:**
 
 [GitHub Arc-Development](https://github.com/SimAndrew/Arc-Development)
